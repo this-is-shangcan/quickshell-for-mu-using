@@ -1,0 +1,5 @@
+exec-once = qs -c /path/to/quickshell-bar/shell.qml
+exec-once = cava -p ~/.config/cava/bar_config
+exec-once = /path/to/scripts/brightness_server.sh
+exec-once = python3 /path/to/scripts/volume_server.py
+exec-once = /path/to/scripts/power_server.sh
