@@ -1,0 +1,1 @@
+qs -c shell.qml
