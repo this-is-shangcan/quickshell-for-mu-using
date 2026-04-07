@@ -1,2 +1,2 @@
-# quickshell-for-mu-using
+# quickshell-for-my-using
 so free
